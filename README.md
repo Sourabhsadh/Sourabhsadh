@@ -6,6 +6,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=dark&preferLogin=false"> 
+<img  alt="sourabhsadh's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/sourabhsadh?cardType=github&theme=dark&preferLogin=false" />  </a>
+
 <!---
 Sourabhsadh/Sourabhsadh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
